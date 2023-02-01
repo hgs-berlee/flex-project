@@ -7,7 +7,7 @@
   "custom_data": {
     "features": {
       "activity_skill_filter": {
-        "enabled": false,
+        "enabled": true,
         "filter_teams_view": false
       },
       "callbacks": {
@@ -20,26 +20,26 @@
         "enabled": true
       },
       "conversation_transfer": {
-        "enabled": false,
+        "enabled": true,
         "cold_transfer": true,
         "multi_participant": true
       },
       "chat_to_video_escalation": {
-        "enabled": false
+        "enabled": true
       },
       "conference": {
         "enabled": true,
         "add_button": true,
-        "hold_workaround": false
+        "hold_workaround": true
       },
       "enhanced_crm_container": {
-        "enabled": false
+        "enabled": true
       },
       "internal_call": {
-        "enabled": false
+        "enabled": true
       },
       "override_queue_transfer_directory": {
-        "enabled": false
+        "enabled": true
       },
       "scrollable_activities": {
         "enabled": true
@@ -50,13 +50,13 @@
         "supervisor_monitor_panel": true
       },
       "omni_channel_capacity_management": {
-        "enabled": false
+        "enabled": true
       },
       "device_manager": {
         "enabled": true
       },
       "dual_channel_recording": {
-        "enabled": false,
+        "enabled": true,
         "channel": "worker"
       },
       "pause_recording": {
@@ -113,16 +113,16 @@
         "enabled": true
       },
       "schedule_manager": {
-        "enabled": false
+        "enabled": true
       },
       "multi_call": {
         "enabled": false
       },
       "hang_up_by": {
-        "enabled": false
+        "enabled": true
       },
       "chat_transfer": {
-        "enabled": false
+        "enabled": true
       },
       "agent_automation": {
         "enabled": true,
