@@ -36,7 +36,7 @@
         "enabled": false
       },
       "internal_call": {
-        "enabled": false
+        "enabled": true
       },
       "override_queue_transfer_directory": {
         "enabled": false
@@ -50,7 +50,7 @@
         "supervisor_monitor_panel": true
       },
       "omni_channel_capacity_management": {
-        "enabled": false
+        "enabled": true
       },
       "device_manager": {
         "enabled": true
@@ -60,7 +60,7 @@
         "channel": "worker"
       },
       "pause_recording": {
-        "enabled": true,
+        "enabled": false,
         "include_silence": false,
         "indicator_banner": false,
         "indicator_permanent": true
@@ -76,7 +76,7 @@
         }
       },
       "teams_view_filters": {
-        "enabled": true,
+        "enabled": false,
         "logFilters": true,
         "applied_filters": {
           "email": true,
@@ -122,7 +122,7 @@
         "enabled": false
       },
       "chat_transfer": {
-        "enabled": false
+        "enabled": true
       },
       "agent_automation": {
         "enabled": true,
