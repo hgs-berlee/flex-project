@@ -11,10 +11,10 @@
         "filter_teams_view": false
       },
       "callbacks": {
-        "enabled": true,
-        "allow_requeue": true,
+        "enabled": false,
+        "allow_requeue": false,
         "max_attempts": 3,
-        "auto_select_task": true
+        "auto_select_task": false
       },
       "caller_id": {
         "enabled": true
