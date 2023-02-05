@@ -33,7 +33,7 @@
         "hold_workaround": true
       },
       "enhanced_crm_container": {
-        "enabled": true
+        "enabled": false
       },
       "internal_call": {
         "enabled": true
@@ -76,7 +76,7 @@
         }
       },
       "teams_view_filters": {
-        "enabled": true,
+        "enabled": false,
         "logFilters": true,
         "applied_filters": {
           "email": true,
